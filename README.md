@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nasyxnadeem" target="blank"><img src="https://img.shields.io/twitter/follow/nasyxnadeem?logo=twitter&style=for-the-badge" alt="nasyxnadeem" /></a> </p>
 
-- 🌱 I’m currently learning **Java Spring, Android and Threejs**
+- 🌱 I’m currently learning **Java Spring, Android, Blockchain and Threejs**
 
 - 👨‍💻 All of my projects are available at [nasyxnadeem.dev](nasyxnadeem.dev)
 
