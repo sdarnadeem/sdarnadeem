@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sdarnadeem@gmail.com**
 
-- ⚡ Fun fact **I think that I got a purpose**
+- ⚡ Fun fact **There is a purpose for everyone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
