@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Reactjs, CSS, HTML, C, C++, Java, JavaScript, Kotlin**
 
-- 📫 How to reach me **sdarnadeem@gmail.com**
+- 📫 How to reach me **nasyxnadeem@gmail.com**
 
 - ⚡ Fun fact **There is a purpose for everyone**
 
