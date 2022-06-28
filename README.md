@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Spring, Android and Threejs**
 
-- 👨‍💻 All of my projects are available at [nasyxnadeem.dev](nasyxnadeem.dev)
+- 👨‍💻 All of my projects are available at [https://nasyxnadeem.dev](nasyxnadeem.dev)
 
 - 📝 I regularly write articles on [codipher.com](codipher.com)
 
