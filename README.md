@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [nasyxnadeem.dev](https://nasyxnadeem.dev)
 
-- 📝 I regularly write articles on [codipher.com](codipher.com)
+- 📝 I regularly write articles on [codipher.com](https://codipher.com)
 
 - 💬 Ask me about **Reactjs, CSS, HTML, C, C++, Java, JavaScript, Kotlin**
 
