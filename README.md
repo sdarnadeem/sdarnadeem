@@ -11,7 +11,8 @@
 
 - 📝 I regularly write articles on [codipher.com](https://codipher.com)
 
-- 💬 Ask me about **Reactjs, CSS, HTML, C, C++, Java, JavaScript, Kotlin, Android, Nodejs, Mongodb, Express, Mongoose, MUI, Styled Components, SQL**
+- 💬 Ask me about **Reactjs, CSS, HTML, C, C++, Java, JavaScript, Kotlin, Android, Nodejs, Mongodb, Express, Mongoose, MUI, Styled Components
+**
 
 - 📫 How to reach me **nasyxnadeem@gmail.com**
 
