@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/nasyxnadeem" target="blank"><img src="https://img.shields.io/twitter/follow/nasyxnadeem?logo=twitter&style=for-the-badge" alt="nasyxnadeem" /></a> </p>
 
-- 🌱 I’m currently learning **Java Spring, Android and Threejs**
+- 🌱 I’m currently learning **Web3, Cyber Security, Java Spring, Flutter**
 
 - 👨‍💻 All of my projects are available at [nasyxnadeem.dev](https://nasyxnadeem.dev)
 
 - 📝 I regularly write articles on [codipher.com](https://codipher.com)
 
-- 💬 Ask me about **Reactjs, CSS, HTML, C, C++, Java, JavaScript, Kotlin, Android, Nodejs, Mongodb, Express
+- 💬 Ask me about **Reactjs, React Native, CSS, HTML, C, C++, Java, JavaScript, Kotlin, Android, Nodejs, Mongodb, Express, Docker, Kubernetes, Nginx
 
 - 📫 How to reach me **nasyxnadeem@gmail.com**
 
