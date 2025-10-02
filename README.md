@@ -1,6 +1,6 @@
 # 💫 About Me  
 
-🌟 Hi, I’m Nasyx, a software engineer based in Srinagar, Jammu, and Kashmir. I specialize in crafting innovative digital solutions with technologies like **React**, **Node.js**, **Next.js**, **Nuxt.js**, **React Native**, **PostgreSQL**, **Mongodb**, **Go**, **Angular** and **Python**.  
+🌟 Hi, I’m Nasyx, a software engineer based in Srinagar, Jammu, and Kashmir. I specialize in crafting innovative digital solutions with technologies like **React**, **Node.js**, **React Native**, **PostgreSQL**, **Generative AI**, **Devops** and **MLops**.
 
 🌱 Driven by curiosity and a passion for learning, I’m always exploring new horizons in the tech world while creating seamless and impactful digital experiences.  
 
